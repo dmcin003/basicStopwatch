@@ -1,4 +1,4 @@
 
 
-# A simple Stopwatch using React + Typesript + Vite
+# A simple Stopwatch using React + Typescript + Vite
 ```
